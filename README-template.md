@@ -44,6 +44,22 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+Pseudocode:
+Section off the text in the html into divs, etc.
+Figure out where all the images go, look at design and read through style guide
+Put in the background images.
+  Figure out how to make the background different for mobile and desktop views.
+Put in the image at the top of the body.
+Lay down the basic css components, like font family and size.
+Figure out the spacing and sizes for h1 and first p. Those will be pretty easy.
+
+Big challenge will be putting the elements underneath in columns instead of rows inside divs. Will def need to do research on this.
+Figure out the shapes on the links first before doing the hover states code.
+Finalize spacing using margins and padding.
+
+Then do hover states last.
+I've done the hover states before, look into previously used code. I should also start making a code library so I don't have to keep googling this while I'm still learning.
+
 
 ### Built with
 
